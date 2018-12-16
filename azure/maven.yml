@@ -1,0 +1,4 @@
+- hosts: webserver
+  roles:
+    - role: gantsign.maven
+      maven_version: '3.3.9'
