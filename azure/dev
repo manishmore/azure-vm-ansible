@@ -1,4 +1,0 @@
-manish ansible_host=docker-devops.eastus.cloudapp.azure.com ansible_port=22 ansible_ssh_user=manish
-
-[webserver]
-manish
