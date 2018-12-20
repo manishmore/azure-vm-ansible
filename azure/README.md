@@ -26,6 +26,14 @@ Including an example of how to use your role (for instance, with variables passe
     - hosts: servers
       roles:
          - { role: username.rolename, x: 42 }
+         
+Run individual for each one of roles)
+
+- $ansible-playbook docker.yml
+
+- $ansible-playbook jenkins.yml
+
+- $ansible-playbook maven.yml
 
 License
 -------
