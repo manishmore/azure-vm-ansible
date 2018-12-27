@@ -1,0 +1,7 @@
+[node1]
+100.26.102.113 ansible_ssh_user=ec2-user ansible_ssh_private_key_file=../macos.pem 
+
+[node2]
+54.161.99.83 ansible_ssh_user=ec2-user ansible_ssh_private_key_file=../macos.pem
+
+
